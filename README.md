@@ -1,5 +1,103 @@
-<h1 align="center">Hi, I'm Shibnath Das 👋</h1><br><br><h3 align="center"><br>DevOps & Cloud Engineer | Building secure, automated, and reliable infrastructure<br></h3><br><br><hr style="border:0.8px solid #444; width:70%; margin:auto;" /><br><br><h3>🛠️ DevOps & Cloud Stack</h3><br><hr style="border:0.5px solid #333"/><br><br><p style="display:flex; flex-wrap:wrap; gap:8px;"><br><br><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" style="border:1px solid #444;border-radius:4px"/><br><br><img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" style="border:1px solid #444;border-radius:4px"/><br><br><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" style="border:1px solid #444;border-radius:4px"/><br><br><img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" style="border:1px solid #444;border-radius:4px"/><br><br><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" style="border:1px solid #444;border-radius:4px"/><br><br><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" style="border:1px solid #444;border-radius:4px"/><br><br><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" style="border:1px solid #444;border-radius:4px"/><br><br></p><br><br><h3>🛠️ Currently Working On</h3><br><hr style="border:0.6px solid #444"/><br><br>- Designing and operating a **self-hosted DevOps & Cloud lab** using Proxmox and OPNsense  <br>- Managing **containerized services** with Docker and reverse proxies  <br>- Building **CI/CD pipelines** using GitHub Actions for automated testing and deployments  <br>- Strengthening **automation, security hardening, and high availability** across infrastructure  <br><br><h3>🤝 Open to Collaborate On</h3><br><hr style="border:0.6px solid #444"/><br><br>- Open-source initiatives in **DevOps, Cloud, and Platform Engineering**  <br>- **Linux system administration** and infrastructure automation  <br>- **Monitoring & observability stacks** (Zabbix, Prometheus, Grafana)  <br>- Automation using **Ansible, Bash, and Python**  <br><br><h3>🆘 Looking for Guidance On</h3><br><hr style="border:0.6px solid #444"/><br><br>- Advanced **Kubernetes networking**, ingress, and service mesh concepts  <br>- Designing **production-grade CI/CD architectures**  <br>- Cloud security best practices and **SRE reliability patterns**  <br><br><h3>🌱 Currently Learning</h3><br><hr style="border:0.6px solid #444"/><br><br>- AWS and Azure cloud architecture fundamentals  <br>- Kubernetes internals and cluster operations  <br>- Infrastructure as Code with **Terraform**  <br>- Scalable CI/CD workflows using **GitHub Actions**  <br>- System design and real-world DevOps troubleshooting through hands-on labs  <br><br><h3>💬 Ask Me About</h3><br><hr style="border:0.6px solid #444"/><br><br>Linux • Git & GitHub • Docker • Proxmox  <br>OPNsense firewalls • NGINX reverse proxies  <br>Networking fundamentals • DevOps tooling & workflows  <br><br><h3>⚡ Fun Fact</h3><br><hr style="border:0.6px solid #444"/><br><br>I intentionally break my own lab environments to understand failure modes, practice recovery strategies, and build resilient systems the right way.<br>
+<h1 align="center">Hi, I'm Shibnath Das 👋</h1>
 
+<h3 align="center">
+DevOps & Cloud Engineer | Building secure, automated, and reliable infrastructure
+</h3>
+
+<hr style="border:0.8px solid #444; width:70%; margin:12px auto;" />
+
+<!-- ABOUT ME -->
+<h3 style="border:1px solid #444; padding:6px 10px; display:inline-block; border-radius:4px;">
+🚀 About Me
+</h3>
+
+<p>
+I am a DevOps & Cloud Engineer focused on designing, automating, and securing scalable infrastructure.
+I work extensively with self-hosted labs and cloud-native tools to simulate real-world production
+environments, emphasizing reliability, observability, and security-first design.
+</p>
+
+<!-- STACK -->
+<h3 style="border:1px solid #444; padding:6px 10px; display:inline-block; border-radius:4px;">
+🛠️ DevOps & Cloud Stack
+</h3>
+
+<p style="display:flex; flex-wrap:wrap; gap:6px; margin-top:8px;">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+</p>
+
+<!-- WORKING ON -->
+<h3 style="border:1px solid #444; padding:6px 10px; display:inline-block; border-radius:4px;">
+🛠️ Currently Working On
+</h3>
+
+<ul>
+  <li>Designing and operating a <strong>self-hosted DevOps & Cloud lab</strong> using Proxmox and OPNsense</li>
+  <li>Managing <strong>containerized services</strong> with Docker and NGINX reverse proxies</li>
+  <li>Building <strong>CI/CD pipelines</strong> with GitHub Actions</li>
+  <li>Improving <strong>automation, security hardening, and high availability</strong></li>
+</ul>
+
+<!-- COLLAB -->
+<h3 style="border:1px solid #444; padding:6px 10px; display:inline-block; border-radius:4px;">
+🤝 Open to Collaborate On
+</h3>
+
+<ul>
+  <li>Open-source projects in <strong>DevOps, Cloud, and Platform Engineering</strong></li>
+  <li><strong>Linux system administration</strong> and infrastructure automation</li>
+  <li><strong>Monitoring & observability</strong> (Zabbix, Prometheus, Grafana)</li>
+  <li>Automation using <strong>Ansible, Bash, and Python</strong></li>
+</ul>
+
+<!-- HELP -->
+<h3 style="border:1px solid #444; padding:6px 10px; display:inline-block; border-radius:4px;">
+🆘 Looking for Guidance On
+</h3>
+
+<ul>
+  <li>Advanced <strong>Kubernetes networking</strong> and ingress architectures</li>
+  <li>Designing <strong>production-grade CI/CD systems</strong></li>
+  <li><strong>Cloud security</strong> and SRE reliability patterns</li>
+</ul>
+
+<!-- LEARNING -->
+<h3 style="border:1px solid #444; padding:6px 10px; display:inline-block; border-radius:4px;">
+🌱 Currently Learning
+</h3>
+
+<ul>
+  <li>AWS & Azure cloud architecture</li>
+  <li>Kubernetes internals and cluster operations</li>
+  <li>Infrastructure as Code with <strong>Terraform</strong></li>
+  <li>Scalable CI/CD using <strong>GitHub Actions</strong></li>
+  <li>System design through hands-on DevOps labs</li>
+</ul>
+
+<!-- ASK -->
+<h3 style="border:1px solid #444; padding:6px 10px; display:inline-block; border-radius:4px;">
+💬 Ask Me About
+</h3>
+
+<p>
+Linux • Git & GitHub • Docker • Proxmox • OPNsense • NGINX • Networking • DevOps workflows
+</p>
+
+<!-- FUN -->
+<h3 style="border:1px solid #444; padding:6px 10px; display:inline-block; border-radius:4px;">
+⚡ Fun Fact
+</h3>
+
+<p>
+I intentionally break my own lab environments to study failure modes, practice recovery strategies,
+and engineer resilient systems the right way.
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shibnath) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shibnathdas27x@gmail.com) 
